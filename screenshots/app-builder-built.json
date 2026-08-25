@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ClientBoost",
+      "hasCanvas": false,
+      "bodyTextLen": 1690,
+      "bodyTextHash": "eb292ce6556d0c19025040432ed71634e5d801856e779837b91de8c5ba14657d",
+      "bodyTextPrefix": "ClientBoost Product Pricing About Log in Start free Built for ma",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ClientBoost",
+      "hasCanvas": false,
+      "bodyTextLen": 1626,
+      "bodyTextHash": "9978153d8ba70c9fe1ae4eed9c0413b4e97ab4e1cb83d8b2ec7bb46bfe970b3e",
+      "bodyTextPrefix": "ClientBoost Start free Built for marketing agencies Turn client ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

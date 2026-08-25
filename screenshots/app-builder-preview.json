@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ClientBoost",
+      "hasCanvas": false,
+      "bodyTextLen": 2160,
+      "bodyTextHash": "0edf6ebb6f694d2c466eff0671573ada333c6d727f84b1df3920230cf40628dc",
+      "bodyTextPrefix": "ClientBoost LIVE How it works Product Pricing About DESK SESSION",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ClientBoost",
+      "hasCanvas": false,
+      "bodyTextLen": 2079,
+      "bodyTextHash": "3d0e7e63513d5b9b034a3841daf5053a27594655c86325cda813eb2d4477ac1a",
+      "bodyTextPrefix": "ClientBoost Start free DESK SESSION Harbor HVAC · live v1 Write ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
